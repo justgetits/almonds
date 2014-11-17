@@ -1,0 +1,76 @@
+.how a {
+text-decoration:none;
+background-color:blue;
+border-radius:5px;
+color:white;
+padding:3px;
+	
+}
+
+.nav a {
+text-decoration:none;
+color:black;
+text-transform:uppercase;
+padding:5px;
+	
+	
+}
+
+.jumbotron {
+background-image:url('https://www.muralesyvinilos.com/murales/Nueva_york_panoramica_muralesyvinilos_49260319__Monthly_XXL.jpg');
+height:250px;
+text-align:center;
+
+	
+	
+	
+}
+
+.jumbotron h1 {
+
+font-size:40px;
+color:white;
+
+	
+	
+}
+.jumbotron p {
+font-size:24px;
+color:white;	
+	
+}
+.jumbotron .container {
+position:relative;
+top:75px;	
+	
+}
+
+.nav li {
+display:inline-block;
+
+	
+	
+}
+
+.nav ul {
+
+padding-right:600px;
+display:inline;
+	
+}
+
+.nav {
+position:fixed;
+z-index:1;
+width:100%;	
+background-color:#f7f7f7;
+margin-top:-10px;
+padding:50px;
+
+	
+}
+.how {
+background-color:#f7f7f7;
+position:relative;
+	
+}
